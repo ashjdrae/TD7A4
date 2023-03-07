@@ -1,3 +1,4 @@
+// This file initiate the databse
 db = db.getSiblingDB("animal_db");
 db.animal_tb.drop();
 

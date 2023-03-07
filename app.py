@@ -1,3 +1,4 @@
+#In this file there is the app
 from flask import Flask, jsonify
 import pymongo
 from pymongo import MongoClient

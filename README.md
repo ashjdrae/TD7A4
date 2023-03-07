@@ -6,4 +6,4 @@ Finally open a terminal, go inside the file you forked with cd command, and writ
 docker-compose up
 Finally go to http://localhost:5000 and see the results.
 You can also go to http://localhost:5000/animals to see the database content.
-If you modify content.txt file, then this will appear in the http://localhost:5000 after a refresh
+If you modify content.txt file, then this will appear in the http://localhost:5000 after a refresh.

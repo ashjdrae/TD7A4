@@ -1,3 +1,2 @@
 The purpose of using Docker volumes is to persist data outside the container so it can be backed up or shared.
 Docker volumes are dependent on Docker's file system and are the preferred method of persisting data for Docker containers and services.
-Docker is very usefull
